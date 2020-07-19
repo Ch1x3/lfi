@@ -1,3 +1,1 @@
-<div id="hook">
-  heelo
-  </div>
+info();
